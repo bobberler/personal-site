@@ -1,9 +1,7 @@
 html {
     background: linear-gradient(#ffffff 0%, #757eb3 50%, #52406e 100%) fixed;
-
     font-family: 'Inter', sans-serif;
     color: black;
-    font-size: 1.1rem;
 }
 
 ul {
