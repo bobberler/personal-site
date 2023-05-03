@@ -1,0 +1,47 @@
+html {
+    background: linear-gradient(#ffffff 0%, #757eb3 50%, #52406e 100%) fixed;
+
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 1.1rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #ffffff;
+    width: 50%;
+}
+li{
+    float: left;
+    margin: auto;
+    width: 33.33%;
+}
+
+li a{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #a7a7a7;
+}
+
+nav img{
+    width: 16px;
+    height: 16px;
+}
+
+main{
+    margin: auto;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+}
