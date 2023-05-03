@@ -2,6 +2,7 @@ html {
     background: linear-gradient(#ffffff 0%, #757eb3 50%, #52406e 100%) fixed;
     font-family: 'Inter', sans-serif;
     color: black;
+    font-size: 1.5rem;
 }
 
 ul {
@@ -16,7 +17,7 @@ ul {
 li{
     float: left;
     margin: auto;
-    width: 33.33%;
+    width: 25%;
 }
 
 li a{
@@ -41,5 +42,13 @@ main{
 }
 
 h1{
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     text-align: center;
 }
